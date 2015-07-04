@@ -1,0 +1,70 @@
+/* CSS file designed to work with Biases One Page, from Dune Themes */
+/* dunethemes.tumblr.com */
+
+h1{
+  text-align: center;
+  font-size: 60px;	
+}
+
+#holder{
+  max-width: 800px;
+  position: relative;
+  margin: 0 auto;
+  height: 50px;
+}
+.one, .two, .three, .four, .five, .six{
+  width: 200px;
+  height: 300px;
+  position: relative;	
+}
+.one{
+  left: 0px;	
+}
+.two{
+  left: 300px;	
+  top: -300px;
+}
+.three{
+  left: 600px;
+  top: -600px;
+}
+.four{
+  left: 0px;
+  top: -520px;	
+}
+.five{
+  left: 300px;
+  top: -850px;
+}
+.six{
+  left: 600px;
+  top: -1180px;	
+}
+
+.four, .five, .six{
+  margin-bottom: 30px;	
+}
+
+.image{
+  top: 0px;
+  width: 200px;
+  position: relative;
+  height: 300px;	
+  display: block;
+  z-index: 2;
+}  
+#text h1{
+  font-size: 16px;
+  margin: 0;
+  text-align: left;	
+}
+#text{
+  top: 0px;
+  width: 170px;
+  height: 270px;
+  overflow-y: scroll;
+  position: absolute;
+  display: block;	
+  z-index: 1;
+  padding: 15px;
+}
