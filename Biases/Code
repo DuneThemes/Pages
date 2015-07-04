@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Biases | {Title}</title>
+    <link rel="stylesheet" href="http://static.tumblr.com/uv8mqxy/gvunna6e1/creditshake.css" />
+    <link rel="stylesheet" href="http://static.tumblr.com/uv8mqxy/QOPnqyzpg/main.css" />
+    <link rel="shortcut icon" href="{Favicon}" />
+    
+    <!-- 
+    	|
+        |  Page designed and developed by Dune Themes (http://dunethemes.tumblr.com).
+        |  Do not redistribute or claim as your own.
+        |  Redux edits are allowed, providing a link to Dune Themes 
+        |  (http://dunethemes.tumblr.com) is provided. 
+        |  
+        |  Thanks for downloading! 
+        | 
+    -->
+    
+    <style>
+		@import url(http://fonts.googleapis.com/css?family=Lobster);
+		@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+		h1.title{
+		  font-family: 'Lobster', cursive;
+		}
+		#text{
+		  font-family: 'Open Sans', sans-serif;	
+		}
+		.one .image{
+		  background: url('../../../Elements/Images/Dummies/Jack.png'); /* First Image */
+		  background-size: cover;
+		  background-position: center;
+		}
+		.two .image{
+		  background: url('../../../Elements/Images/Dummies/Geoff.png'); /* Second Image */
+		  background-size: cover;
+		  background-position: center;	
+		}
+		.three .image{
+		  background: url('../../../Elements/Images/Dummies/Ryan.jpg'); /* Third Image */
+		  background-size: cover;
+		  background-position: center;	
+		}
+		.four .image{
+		  background: url('../../../Elements/Images/Dummies/Gavino.jpg'); /* Four Image */
+		  background-size: cover;
+		  background-position: center;	
+		}
+		.five .image{
+		  background: url('../../../Elements/Images/Dummies/Michael.png'); /* Five Image */
+		  background-size: cover;
+		  background-position: center;	
+		}
+		.six .image{
+		  background: url('../../../Elements/Images/Dummies/Lindsay.png'); /* Six Image */
+		  background-size: cover;
+		  background-position: center;	
+		}
+		h1.title{
+		  color: #fff; /* Title Colour */
+		  text-shadow: 1px 1px 1px #000; /* Title Shadow */	
+		}
+		#text, #text a{
+		  color: #000; /* Text Colour and Links */
+		}
+		body{
+		  background: #036; /* Body Background */
+		}
+		.one, .two, .three, .four, .five, .six{	
+		  background: #fff; /* Text Background */
+		}
+		
+	</style>
+    <script src="http://static.tumblr.com/uv8mqxy/FRfnpmg2z/jquery-1.9.1.min.js"></script>
+    <script src="http://static.tumblr.com/uv8mqxy/ykGnqyzob/control.js"></script>
+</head>
+
+<body>
+	<a href="http://dunethemes.tumblr.com">
+         <div id="credit">
+             <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+                     width="50.000000pt" height="20.000000pt" viewBox="0 0 154.000000 88.000000"
+                     preserveAspectRatio="xMidYMid meet">>
+                 <g transform="translate(0.000000,88.000000) scale(0.100000,-0.100000)"
+                    fill="#fff" stroke="none">
+                    <path d="M515 838 c-4 -18 -30 -88 -57 -155 l-50 -122 -67 6 c-41 3 -82 1
+                    -104 -6 -86 -29 -176 -130 -212 -241 -72 -218 88 -396 256 -285 36 24 37 24
+                    54 5 43 -48 129 -43 198 12 21 16 39 28 41 27 1 -2 10 -16 19 -31 17 -27 80
+                    -53 108 -44 8 2 26 7 41 10 61 13 129 102 157 201 8 30 8 41 -2 47 -21 13 -26
+                    9 -48 -34 -36 -72 -109 -138 -154 -138 -24 0 -18 74 14 165 52 149 143 336
+                    167 345 41 16 258 22 379 11 66 -6 153 -21 193 -33 40 -11 75 -18 78 -15 4 3
+                    8 25 11 49 5 52 -20 98 -69 125 -29 16 -57 18 -213 17 -112 -1 -209 -7 -257
+                    -16 l-78 -15 0 37 c0 31 -7 44 -35 69 -38 33 -82 49 -94 35 -4 -5 -18 -44 -31
+                    -86 l-24 -78 -44 0 -44 0 6 34 c9 49 -7 81 -57 110 -58 35 -74 33 -82 -6z
+                    m151 -214 c13 -3 24 -10 24 -14 0 -5 -14 -44 -30 -87 -17 -43 -46 -136 -65
+                    -206 -21 -80 -43 -141 -58 -161 -30 -39 -88 -72 -112 -62 -39 15 6 164 126
+                    417 45 93 66 128 77 124 7 -3 25 -8 38 -11z m-333 -206 c16 -12 16 -20 -8
+                    -112 -14 -54 -25 -118 -25 -142 0 -40 -3 -46 -41 -70 -50 -31 -93 -27 -134 14
+                    -25 25 -27 32 -22 87 5 68 22 107 70 162 58 66 120 90 160 61z"/>
+                 </g>
+             </svg>
+         </div>
+    </a>
+    <h1 class="title">Biases</h1>
+    
+<div id="holder">
+    	<div class="one">
+        	<div class="image"></div>
+            <div id="text">
+            	<h1>Lorem Ipsum</h1>
+                <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then 
+                they show that show to the people who make shows, and on the strength of that one show they 
+                decide if they're going to make more shows. Some pilots get picked and become television 
+                programs. Some don't, become nothing. She starred in one of the ones that became 
+                nothing. </p>
+            </div>
+        </div>
+        
+        <div class="two">
+        	<div class="image"></div>
+            <div id="text">
+            	<h1>Lorem Ipsum</h1>
+                <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then 
+                they show that show to the people who make shows, and on the strength of that one show they 
+                decide if they're going to make more shows. Some pilots get picked and become television 
+                programs. Some don't, become nothing. She starred in one of the ones that became 
+                nothing. </p>
+            </div>
+        </div>
+        
+        <div class="three">
+        	<div class="image"></div>
+            <div id="text">
+            	<h1>Lorem Ipsum</h1>
+                <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then 
+                they show that show to the people who make shows, and on the strength of that one show they 
+                decide if they're going to make more shows. Some pilots get picked and become television 
+                programs. Some don't, become nothing. She starred in one of the ones that became 
+                nothing. </p>
+            </div>
+        </div>
+        
+        <div class="four">
+        	<div class="image"></div>
+            <div id="text">
+            	<h1>Lorem Ipsum</h1>
+                <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then 
+                they show that show to the people who make shows, and on the strength of that one show they 
+                decide if they're going to make more shows. Some pilots get picked and become television 
+                programs. Some don't, become nothing. She starred in one of the ones that became 
+                nothing. </p>
+            </div>
+        </div>
+        
+        <div class="five">
+        	<div class="image"></div>
+            <div id="text">
+            	<h1>Lorem Ipsum</h1>
+                <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then 
+                they show that show to the people who make shows, and on the strength of that one show they 
+                decide if they're going to make more shows. Some pilots get picked and become television 
+                programs. Some don't, become nothing. She starred in one of the ones that became 
+                nothing. </p>
+            </div>
+        </div>
+        
+        <div class="six">
+        	<div class="image"></div>
+            <div id="text">
+            	<h1>Lorem Ipsum</h1>
+                <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then 
+                they show that show to the people who make shows, and on the strength of that one show they 
+                decide if they're going to make more shows. Some pilots get picked and become television 
+                programs. Some don't, become nothing. She starred in one of the ones that became 
+                nothing. </p>
+            </div>
+        </div>
+</div>
+</body>
+</html>
