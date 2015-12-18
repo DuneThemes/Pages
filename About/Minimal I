@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    {block:Description}
+        <meta name="description" content="{MetaDescription}" />
+    {/block:Description}
+    <link rel="alternate" type="application/rss+xml" href="{RSS}">
+    <title>About | {Title}</title>
+    <link rel="shortcut icon" href="{Favicon}" />
+    <link rel="stylesheet" href="http://static.tumblr.com/uv8mqxy/gvunna6e1/creditshake.css" />
+    <!-- 
+    	|
+        |  Page designed and developed by Dune Themes (http://dunethemes.tumblr.com).
+        |  Do not redistribute or claim as your own.
+        |  Redux edits are allowed, providing a link to Dune Themes 
+        |  (http://dunethemes.tumblr.com) is provided. 
+        |  
+        |  Thanks for downloading! 
+        | 
+    -->
+	<style>
+		/* --- Fonts --- */
+			@import url(https://fonts.googleapis.com/css?family=Asap);
+			
+		#content-region{
+		  width: 50%;
+		  transform: translate(-50%, -50%);
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  overflow: hidden;
+		  text-align: center;
+		  pointer-events: all;
+		}
+		/* --- Menu --- */
+			.menu{
+			  top: 0px;
+			  position: relative;
+			  width: 100%;
+			  left: 0px;
+			  height: auto;
+			  margin-bottom: 30px;	
+			  cursor: default;
+			}
+			.menu ul{
+			  margin-left: -40px;	
+			}
+			.menu ul li{
+			  display: inline;
+			  list-style: none;	
+			  padding: 10px;
+			  margin: 10px;
+			}
+			.menu ul li a{
+			  text-decoration: none;	
+			}
+		/* --- Portrait --- */
+			.portrait{
+			  left: 0px;
+			  top: 0px;
+			  position: relative;
+			  padding: 20px;
+			  width: 20%;	
+			  margin-bottom: 30px;
+			}
+			.portrait img{
+			  width: 100%;	
+			}
+		
+		/* --- Facts --- */
+			.facts{
+			  left: 0px;
+			  top: 0px;
+			  width: 20%;
+			  padding: 20px;
+			  position: relative;	
+			  text-transform: uppercase;
+			  
+			}
+			.facts li{
+			  margin-left: 0px;
+			  list-style: none;	
+			  margin-bottom: 10px;
+			}
+			.facts li:last-child{
+			  margin-bottom: 0;	
+			}
+			.facts .section-1{
+			  font-weight: bold;	
+			  letter-spacing: 2px;
+			}
+		
+		/* --- Main Section --- */
+			.main-section{
+			  top: 63px;
+			  position: absolute;
+			  float: right;
+			  width: 64.2%;	
+			  left: 30%;
+			  padding: 20px;
+			  max-height: 78%;
+			  overflow-y: scroll;
+			}
+			.centered{
+			  text-align: center;	
+			}
+			.left{
+			  text-align: left;	
+			}
+			.right{
+			  text-align: right;	
+			}
+			.justified{
+			  text-align: justify;	
+			}
+			hr{
+			  border: none;
+			  border-top: solid 1px;	
+			  width: 30%;
+			  margin-top: 30px;
+			  position: relative;
+			}
+			.noBottom{
+			  margin-bottom: -10px;	
+			}
+		
+		/* --- Colours --- */
+			body{
+			  background: #DFDFDF;
+			  font-family: 'Asap', sans-serif;	
+			}
+			.menu ul li{
+			  background: #fff;	
+			}
+			.menu ul li a{
+			  color: #000;	
+			}
+			.portrait{
+			  background: #fff;	
+			}
+			.facts{
+			  background: #fff;
+			  color: #000;	
+			}
+			.main-section{
+			  background: #fff;
+			  color: #000;	
+			}
+			hr{
+			  border-color: #999;	
+			}
+	</style>
+</head>
+
+<body>
+	<a href="http://dunethemes.tumblr.com">
+         <div id="credit">
+             <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+                     width="50.000000pt" height="20.000000pt" viewBox="0 0 154.000000 88.000000"
+                     preserveAspectRatio="xMidYMid meet">>
+                 <g transform="translate(0.000000,88.000000) scale(0.100000,-0.100000)"
+                    fill="#fff" stroke="none">
+                    <path d="M515 838 c-4 -18 -30 -88 -57 -155 l-50 -122 -67 6 c-41 3 -82 1
+                    -104 -6 -86 -29 -176 -130 -212 -241 -72 -218 88 -396 256 -285 36 24 37 24
+                    54 5 43 -48 129 -43 198 12 21 16 39 28 41 27 1 -2 10 -16 19 -31 17 -27 80
+                    -53 108 -44 8 2 26 7 41 10 61 13 129 102 157 201 8 30 8 41 -2 47 -21 13 -26
+                    9 -48 -34 -36 -72 -109 -138 -154 -138 -24 0 -18 74 14 165 52 149 143 336
+                    167 345 41 16 258 22 379 11 66 -6 153 -21 193 -33 40 -11 75 -18 78 -15 4 3
+                    8 25 11 49 5 52 -20 98 -69 125 -29 16 -57 18 -213 17 -112 -1 -209 -7 -257
+                    -16 l-78 -15 0 37 c0 31 -7 44 -35 69 -38 33 -82 49 -94 35 -4 -5 -18 -44 -31
+                    -86 l-24 -78 -44 0 -44 0 6 34 c9 49 -7 81 -57 110 -58 35 -74 33 -82 -6z
+                    m151 -214 c13 -3 24 -10 24 -14 0 -5 -14 -44 -30 -87 -17 -43 -46 -136 -65
+                    -206 -21 -80 -43 -141 -58 -161 -30 -39 -88 -72 -112 -62 -39 15 6 164 126
+                    417 45 93 66 128 77 124 7 -3 25 -8 38 -11z m-333 -206 c16 -12 16 -20 -8
+                    -112 -14 -54 -25 -118 -25 -142 0 -40 -3 -46 -41 -70 -50 -31 -93 -27 -134 14
+                    -25 25 -27 32 -22 87 5 68 22 107 70 162 58 66 120 90 160 61z"/>
+                 </g>
+             </svg>
+         </div>
+    </a>
+    <div id="content-region">
+    	
+        {block:HasPages}
+            <div class="menu">
+                <ul>
+                    {block:Pages}<li><a href="{URL}">{Label}</a></li>{/block:Pages}
+                </ul>
+            </di>
+        {/block:HasPages}
+        
+        <div class="portrait">
+            <img src="{PortraitURL-128}" />
+        </div>
+        
+        <div class="facts">
+            <li class="section-1">Anon Smith</li>
+            <li class="section-2">17th June, 2013</li>
+            <li class="section-3">"Life is like a box of chocolates ... You never
+            know what you're gonna get."</li>
+        </div>
+        
+        <div class="main-section">
+            
+            <p class="centered">
+                Your text here. Alignment of text can be changed by replacing the "centered" class with either "left", "right"
+                or "justified".
+            </p>
+            <hr />
+            <h1 class="left noBottom">Titled Section</h1>
+            <p class="left">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pulvinar erat eu ante pellentesque, et 
+                tempus sapien dignissim. Suspendisse at justo libero. Donec ac mauris eros. Maecenas finibus venenatis 
+                erat, id rutrum sem.Donec ac mauris eros. Maecenas finibus venenatis erat, id rutrum sem.
+            </p>
+            
+        </div>
+    </div>
+</body>
+</html>
