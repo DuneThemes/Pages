@@ -1,0 +1,59 @@
+/*
+	Blog Moved One by Dune Themes
+	
+	Need help?
+	dunethemes.tumblr.com/support
+	dunethemes@gmail.com
+	@DuneThemes
+	
+	Do not redistribute or claim as your own.
+	© Dune Themes
+*/
+body{
+  padding: 0;
+  margin: 0;	
+}
+.centre{
+  width: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  pointer-events: all;
+  z-index: 99;
+}
+#top-section, #bottom-section{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  height: 50%;
+  font-size: 36px;	
+}
+#top-section{
+  top: 0px;	
+}
+#bottom-section{
+  bottom: 0px;	
+}
+
+.centre .portraits{
+  width: 15%;
+  margin: 0 auto;
+  position: relative;	
+}
+.centre .portraits img{
+  width: 100%;
+  border-radius: 100%;	
+}
+.centre .portraits img.top-section-img{
+	
+}
+.centre .portraits img.bottom-section-img{
+  display: none;	
+}
+
+.blogName{
+  text-transform: uppercase;	
+  margin-top: 10px;
+}
