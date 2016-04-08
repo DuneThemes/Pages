@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>{Title}</title>
+    <link rel="stylesheet" href="http://static.tumblr.com/uv8mqxy/XX7o5b82n/blogmovedone.css" />
+    <link rel="shortcut icon" href="{Favicon}" />
+    <!--
+        Blog Moved One by Dune Themes
+        
+        Need help?
+        dunethemes.tumblr.com/support
+        dunethemes@gmail.com
+        @DuneThemes
+        
+        Do not redistribute or claim as your own.
+        © Dune Themes
+    -->
+    <style>
+		@import url(https://fonts.googleapis.com/css?family=Raleway:700,800);
+		 
+		/* --- Colours + Fonts --- */
+			body{
+			  font-family: 'Raleway', sans-serif;	
+			}
+			#top-section{
+			  background: #e74c3c;	
+			}
+			#bottom-section{
+			  background: #2980b9;	
+			}
+			a{
+			  color: #ecf0f1;
+			  text-decoration: none;	
+			}
+			.blogName{
+			  font-weight: 800;	
+			}
+			.actionText{
+			  font-weight: 700;
+			}
+			#top-section{
+			  border-bototm: solid 3px #ecf0f1;	
+			}
+			
+			img{
+			  border: solid 6px #ecf0f1;	
+			  margin-left: -6px;
+			  background: #ecf0f1;
+			}
+			#bottom-section{
+			  border-top: solid 6px #ecf0f1;	
+			}
+		
+	</style>
+</head>
+
+<body>
+	<a href="">
+        <div id="top-section">
+            <div class="centre">
+            	<div class="blogName">
+                	{Title}
+                </div>
+                <div class="actionText">
+                	is now
+                </div>
+            </div>	
+        </div>
+    </a>
+    	<div class="centre">
+        	<div class="portraits">
+                <a href="{BlogURL}">
+                    <img src="{PortraitURL-128}" class="top-section-img"/>
+                </a>
+            </div>
+        </div>
+        <div class="centre">
+        	<div class="portraits">
+            	<a href="[NEW LINK]">
+                    <img src="http://33.media.tumblr.com/avatar_63f8a2d57704_128.png" class="bottom-section-img"/>
+                </a>
+            </div>
+        </div>
+        
+    <a href="">
+        <div id="bottom-section">
+            
+            <div class="centre">
+            	
+                <div class="actionText">
+                	blogging at 
+                </div>
+                
+                <div class="blogName">
+                	The New Blog's Name
+                </div>
+                
+            </div>
+            
+        </div>
+    </a>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="http://static.tumblr.com/uv8mqxy/GJco5b832/blogmovedone.js"></script>
+    
+</body>
+</html>
