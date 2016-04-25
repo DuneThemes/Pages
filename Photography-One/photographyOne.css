@@ -1,0 +1,120 @@
+@charset "utf-8";
+/*
+	Photography One by Dune Themes
+	
+	Need help?
+	dunethemes.tumblr.com/support
+	dunethemes@gmail.com
+	@DuneThemes
+	
+	Do not redistribute or claim as your own.
+	© Dune Themes
+*/
+
+    .wrap{
+		  max-width: 800px;
+		  position: relative;
+		  margin: 0 auto;	
+		}
+		
+		.head{
+		  position: relative;
+		  width: 100%;
+		  text-align: center;	
+		}
+		.head a{
+		  text-decoration: none;	
+		}
+		h1, h2{
+		  text-transform: uppercase;
+		  margin: 20px;
+		  display: inline-block;
+		  -webkit-transition: ease 1s;
+		  padding-top: 10px;
+		  padding-bottom: 10px;
+		  cursor: default;
+		}
+		h1.animate:hover{
+		  padding-top: 0px;	
+		  padding-bottom: 0px;
+		}
+		h2{
+		  margin: 0px;
+		  margin-top: 20px;	
+		}
+		.head nav{
+		  cursor: default;	
+		}
+		.head nav li{
+		  display: inline;
+		  margin: 10px;	
+		  text-transform: uppercase;
+		  font-weight: bold;
+		}
+		
+		.wrap .item{
+		  width: 360px;
+		  position: relative;	
+		  margin: 20px;
+		  overflow: hidden;
+		}
+		.wrap .item img{
+		  width: 100%;	
+		}
+		.item .caption{
+		  padding: 20px;
+		  position: absolute;
+		  bottom: 0px;	
+		  width: 320px;
+		  pointer-events: none;
+		  display: none;
+		}
+		.caption.text{
+		  position: relative;
+		  padding: 0;
+		  left: 0px;
+		  width: 360px;
+		  z-index: 99;
+		}
+		.caption.text p,
+		.caption.text h1,
+		.caption.text h2{
+		  margin-left: 0;	
+		}
+		.caption.text h3{
+		  margin: 0;
+		  margin-bottom: 5px;	
+		}
+		.caption.text p{
+		  margin-bottom: 10px;	
+		}
+		.caption.text p:first-of-type{
+		  margin-top: 0;	
+		}
+		.caption.text p:last-of-type{
+		  margin-bottom: 0;	
+		}
+		.caption.text a{
+		  text-decoration: underline;	
+		  cursor: pointer;
+		}
+		
+		.section p, .section h2{
+		  margin: 0px 20px;
+		  margin-bottom: 10px;	
+		}
+		.section p{
+		  margin-bottom: 0px;
+		  width: 100%;
+		}
+		.section h2{
+		  margin-top: 20px;	
+		}
+		
+		#toTop{
+		  right: 20px;
+		  bottom: 60px;
+		  position: fixed;
+		  display: none;	
+		  cursor: pointer;
+		}
